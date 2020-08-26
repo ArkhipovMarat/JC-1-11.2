@@ -6,7 +6,7 @@
 	
 22:33:12.346672900:  - loading io.vertx
 _: loaded 529 classes_
-![](screenshots/1.bmp "Описание будет тут")
+![alt text](1.bmp)
 	
 22:33:15.726866200: loading io.netty
 _: loaded 2117 classes_
